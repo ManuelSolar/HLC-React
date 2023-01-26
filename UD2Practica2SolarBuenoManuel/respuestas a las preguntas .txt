@@ -1,0 +1,12 @@
+ 1-¿Qué es Node.js?
+   Node es un entorno de ejecución para Javascript.
+ 2-Indica la versión de node que tienes instalada.
+   v.18.12.0
+ 3-¿Qué es npx?
+   npx es un ejecutor de paquetes npm.
+ 4-¿Qué es create-react-app?
+   create-react-app es una herramienta de línea de comando que permite crear aplicaciones React.
+ 5-Indica comando que inicia el servidor de desarrollo. 
+   npm start.
+ 6-Indica el puerto donde por defecto se ejecuta la aplicación REACT
+   El puerto 3000.
