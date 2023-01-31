@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.ficha-alumno {
+  display: flex;
+  width: 350px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+}
+
+.ficha-alumno img {
+  margin: 3%;
+  width: 100px;
+  height: 180px;
+}
+
+.datos-alumno {
+  margin: 3%;
+}
+
+label {
+  font-weight: bold;
+  
+}
+
+.labels-alumno {
+  display: flex;
+  flex-direction: column;
+  background-color: cyan;
+}
+
+.parrafos-alumno{
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  
+}
+
+
+
