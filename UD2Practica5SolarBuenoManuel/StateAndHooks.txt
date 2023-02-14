@@ -1,0 +1,8 @@
+STATE AND HOOKS
+Define qué son cada uno de estos conceptos en React y pon un ejemplo de cada uno de ellos.
+
+STATE
+Es un objeto que contiene los datos de la aplicación. Se utiliza para que los componentes puedan acceder a los datos de la aplicación y modificarlos.
+
+HOOKS
+Es una función que permite utilizar el estado y otras características de React sin escribir una clase.
